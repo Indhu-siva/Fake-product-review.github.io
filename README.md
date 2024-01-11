@@ -22,23 +22,23 @@ CREATE TABLE reviews (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-Getting Started:
-Prerequisites:
+## Getting Started:
+## Prerequisites:
 PHP installed on your server.
 MySQL server running.
 Replace "username" and "password" in the database connection strings with your MySQL username and password.
 
 
-Installation:
+## Installation:
 Clone the repository:
 git clone https://github.com/Indhu-siva/Fake-product-review-.github.io
 
 
-Change into the project directory:
+## Change into the project directory:
 cd Fake-product-review-github.io
 Configure your database connection in index.php and submit_review.php.
 
-Usage:
+## Usage:
 Open index.php in your browser.
 View existing reviews.
 Submit a new review using the form.
